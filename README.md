@@ -31,7 +31,7 @@ text
 ### Form
 Format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: printed materials (object genre); printed materials (object genre); reproductions (derivative objects)  
 ### Internet Media Type
-application/pdf
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. Media type in this collection include: typesapplication/pdf
 ### Extent
 The size or scale of the work. The extent in this collection provides the number of pages each music score contains.
 ### Digital Origin
